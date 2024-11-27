@@ -9,3 +9,5 @@ I needed to send the headphones battery status to home assistant.
 Can run as a service by doing
 - [Run as admin] sc.exe create ZeeHomeAssistantToolsetService binPath= "path\to\binary\Toolset.exe"
 And then making it auto start from services
+
+Packets stolen from https://github.com/auto94/HyperX-Cloud-2-Battery-Monitor/blob/main/Cloud2BatteryMonitorUI/MainForm.cpp
